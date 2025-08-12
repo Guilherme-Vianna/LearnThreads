@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\LearnThreads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C4852-F241-4C6F-979F-7355350F5756}|LearnThreads.csproj|g:\\learnthreads\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C4852-F241-4C6F-979F-7355350F5756}|LearnThreads.csproj|solutionrelative:queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C4852-F241-4C6F-979F-7355350F5756}|LearnThreads.csproj|g:\\learnthreads\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C4852-F241-4C6F-979F-7355350F5756}|LearnThreads.csproj|solutionrelative:controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0C4852-F241-4C6F-979F-7355350F5756}|LearnThreads.csproj|g:\\learnthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0C4852-F241-4C6F-979F-7355350F5756}|LearnThreads.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{b9f91511-5ca5-40ec-9726-f3e3a7e534e2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "G:\\LearnThreads\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QueueController.cs",
+              "ToolTip": "G:\\LearnThreads\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "Controllers\\QueueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:31:57.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "G:\\LearnThreads\\QueueService.cs",
+              "RelativeDocumentMoniker": "QueueService.cs",
+              "ToolTip": "G:\\LearnThreads\\QueueService.cs",
+              "RelativeToolTip": "QueueService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:42:49.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\LearnThreads\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\LearnThreads\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:31:48.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
