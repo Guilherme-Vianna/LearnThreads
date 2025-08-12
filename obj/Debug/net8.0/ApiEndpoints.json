@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "LearnThreads.Controllers.QueueController",
+    "Method": "Pause",
+    "RelativePath": "Queue/pause",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LearnThreads.Controllers.QueueController",
+    "Method": "Start",
+    "RelativePath": "Queue/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
